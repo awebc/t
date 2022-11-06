@@ -326,9 +326,15 @@
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
-]}]}],
+//"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
+//"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
+//]}]}],
+"lives":[
+{"group":"高清频道",
+"channels":[
+{"name":"CCTV-4KHD","urls":["http://liveop.cctv.cn/hls/4KHD/playlist.m3u8"]}]}]
+
+}
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
