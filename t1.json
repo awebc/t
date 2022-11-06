@@ -327,7 +327,7 @@
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 // "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2F3ZWJjL3QvbHYudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2F3ZWJjL3RAbWFpbi9sdi50eHQ="
 ]}]}],
 //liveUrlBase64Decode: "aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==" => https://9xi4o.tk/sub/mytv.txt
 
