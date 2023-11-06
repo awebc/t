@@ -1,22 +1,24 @@
 Github RAW 加速服务
-源码 https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json
-香港 https://raw.iqiq.io/liu673cn/box/main/m.json
-新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json
+源码 https://gitcdn.top/https://github.com/awebc/t/raw/main/lv.txt
+香港 https://raw.iqiq.io/awebc/t/main/lv.txt
+新加坡 https://raw.kgithub.com/awebc/t/main/lv.txt
 日本
-https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-https://raw.fastgit.org/liu673cn/box/main/m.json
+https://fastly.jsdelivr.net/gh/awebc/t@main/lv.txt
+https://cdn.staticaly.com/gh/awebc/t/main/lv.txt
+https://raw.fastgit.org/awebc/t/main/lv.txt
 韩国
-https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+https://ghproxy.com/https://raw.githubusercontent.com/awebc/t/main/lv.txt
+https://ghproxy.net/https://raw.githubusercontent.com/awebc/t/main/lv.txt
 
-https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://raw.githubusercontents.com/liu673cn/box/main/m.json
+https://gcore.jsdelivr.net/gh/awebc/t@main/lv.txt
+https://raw.githubusercontents.com/awebc/t/main/lv.txt
 
 Github 静态加速
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+https://cdn.staticaly.com/gh/awebc/t/main/lv.txt
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://cdn.jsdelivr.net/gh/awebc/t@main/lv.txt
 
 https://purge.jsdelivr.net/gh/
+
+
 
