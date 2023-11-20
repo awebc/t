@@ -4,6 +4,7 @@ Github RAW 加速服务
 新加坡 https://raw.kgithub.com/awebc/t/main/lv.txt
 日本
 https://fastly.jsdelivr.net/gh/awebc/t@main/lv.txt
+https://cdn.jsdelivr.net/gh/awebc/t@main/lv.txt
 https://cdn.staticaly.com/gh/awebc/t/main/lv.txt
 https://raw.fastgit.org/awebc/t/main/lv.txt
 韩国
@@ -18,7 +19,7 @@ https://cdn.staticaly.com/gh/awebc/t/main/lv.txt
 
 https://cdn.jsdelivr.net/gh/awebc/t@main/lv.txt
 
-https://purge.jsdelivr.net/gh/
+https://purge.jsdelivr.net/gh/awebc/t@main/lv.txt
 
 
 

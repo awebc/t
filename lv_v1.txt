@@ -433,61 +433,6 @@ CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000
 广东卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-guangdongstv/.m3u8
 湖南卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/.m3u8
 湖北卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-hubeistv/.m3u8
-🏀NBA直播,#genre#
-1月11日8：00 活塞 @ 76人,http://global.zkshuye.cn/live/sd-2-3675071.m3u8
-8：30 雷霆 @ 热火,http://global.zkshuye.cn/live/sd-2-3675072.m3u8
-8：30 黄蜂 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675073.m3u8
-10：00 骑士 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675074.m3u8
-11：00 太阳 @ 勇士,http://global.zkshuye.cn/live/sd-2-3675075.m3u8
-11：00 魔术 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675076.m3u8
-11：30 独行侠 @ 快船,http://global.zkshuye.cn/live/sd-2-3675077.m3u8
-1月12日8：00 森林狼 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675078.m3u8
-8：00 公牛 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675079.m3u8
-8：30 雄鹿 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675080.m3u8
-8：30 鹈鹕 @ 凯尔特人,http://global.zkshuye.cn/live/sd-2-3675081.m3u8
-8：30步行者 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675082.m3u8
-9：00 马刺 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675083.m3u8
-11：00 太阳 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675084.m3u8
-11：00 火箭 @ 国王,http://global.zkshuye.cn/live/sd-2-3675085.m3u8
-1月13日 8:00 雷霆 @ 76人,http://global.zkshuye.cn/live/sd-2-3675086.m3u8
-8:30 凯尔特人 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675087.m3u8
-8:30 雄鹿 @ 热火,http://global.zkshuye.cn/live/sd-2-3675088.m3u8
-8:30 黄蜂 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675089.m3u8
-11:00 独行侠 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675090.m3u8
-11:00 骑士 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675091.m3u8
-1月14日 8:00 鹈鹕 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675092.m3u8
-8:00 老鹰 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675093.m3u8
-8:00 尼克斯 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675094.m3u8
-8:30 勇士 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675095.m3u8
-9:00 雷霆 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675096.m3u8
-9:00 太阳 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675097.m3u8
-10:00 魔术 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675098.m3u8
-11:00 掘金 @ 快船,http://global.zkshuye.cn/live/sd-2-3675099.m3u8
-11:00 火箭 @ 国王,http://global.zkshuye.cn/live/sd-2-3675100.m3u8
-1月15日 2：00 雄鹿 @ 热火,http://global.zkshuye.cn/live/sd-2-3675101.m3u8
-8：00 凯尔特人 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675102.m3u8
-8：00 灰熊 @ 步行者,http://global.zkshuye.cn/live/sd-2-3675103.m3u8
-8：30 老鹰 @ 猛龙,http://global.zkshuye.cn/live/sd-2-3675104.m3u8
-9：00 骑士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675105.m3u8
-10：00 76人 @ 爵士,http://global.zkshuye.cn/live/sd-2-3675106.m3u8
-11：00 独行侠 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675107.m3u8
-1月16日 2：00 尼克斯 @ 活塞,http://global.zkshuye.cn/live/sd-2-3675108.m3u8
-4：00 火箭 @ 快船,http://global.zkshuye.cn/live/sd-2-3675109.m3u8
-4：30 勇士 @ 公牛,http://global.zkshuye.cn/live/sd-2-3675110.m3u8
-7：00 雷霆 @ 篮网,http://global.zkshuye.cn/live/sd-2-3675111.m3u8
-8：00 国王 @ 马刺,http://global.zkshuye.cn/live/sd-2-3675112.m3u8
-9：00 魔术 @ 掘金,http://global.zkshuye.cn/live/sd-2-3675113.m3u8
-10：00 独行侠 @ 开拓者,http://global.zkshuye.cn/live/sd-2-3675114.m3u8
-10：30 76 人 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675115.m3u8
-1月17日 2：00凯尔特人 @ 黄蜂,http://global.zkshuye.cn/live/sd-2-3675116.m3u8
-3：30 步行者 @ 雄鹿,http://global.zkshuye.cn/live/sd-2-3675117.m3u8
-4：00 鹈鹕 @ 骑士,http://global.zkshuye.cn/live/sd-2-3675118.m3u8
-4：00 猛龙 @ 尼克斯,http://global.zkshuye.cn/live/sd-2-3675119.m3u8
-4：00 勇士 @ 奇才,http://global.zkshuye.cn/live/sd-2-3675120.m3u8
-4：30 热火 @ 老鹰,http://global.zkshuye.cn/live/sd-2-3675121.m3u8
-5：00 爵士 @ 森林狼,http://global.zkshuye.cn/live/sd-2-3675122.m3u8
-7：00 太阳 @ 灰熊,http://global.zkshuye.cn/live/sd-2-3675123.m3u8
-11：30 火箭 @ 湖人,http://global.zkshuye.cn/live/sd-2-3675124.m3u8
 🏀体育频道,#genre#
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226907/65396401.smil
@@ -674,6 +619,8 @@ CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 环球资讯,http://sk.cri.cn/905.m3u8
 环球广播,http://sk.cri.cn/hyhq.m3u8
 南海之声,http://sk.cri.cn/nhzs.m3u8
@@ -692,8 +639,6 @@ Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
 广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
-音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 动感音乐,http://cnlive.cnr.cn/hls/dongganyyt.m3u8
 华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
 80后音怡台,http://lhttp.qingting.fm/live/20207761/64k.mp3
