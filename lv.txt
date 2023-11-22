@@ -19,6 +19,7 @@ CCTV17 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225708/index.m3u8
 安徽卫视 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225851/index.m3u8
 东南卫视 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225863/index.m3u8
 黑龙江少儿 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225870/index.m3u8
+轮播频道,#genre#
 金牌综艺 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225525/index.m3u8
 精品大剧 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225536/index.m3u8
 潮妈辣婆 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225542/index.m3u8
@@ -36,6 +37,15 @@ CCTV17 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225708/index.m3u8
 咪咕视频2 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225901/index.m3u8
 咪咕视频3 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221225914/index.m3u8
 咪咕视频4 [1920*1080],http://39.134.66.4/PLTV/88888888/224/3221226027/index.m3u8
+黑莓动画 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓电影 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+哒啵赛事 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+咪咕全民热练 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 广播频道,#genre#
 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -110,6 +120,7 @@ CCTV17 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 重庆卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 上海纪实人文 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 北京纪实科教 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+NewTv,#genre#
 NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV军事评论 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
@@ -134,23 +145,3 @@ NewTV超级电视剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3
 NewTV超级综艺 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-黑莓动画 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-黑莓电影 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-哒啵赛事 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-咪咕全民热练 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-黑龙江卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-黑龙江农业科教 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江少儿 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江影视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-黑龙江文体 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江新闻法治 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江都市 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-哈尔滨新闻综合 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
-鹤岗新闻综合 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-佳木斯新闻综合 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-漠河综合 2M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226097/index.m3u8
