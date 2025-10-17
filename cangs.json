@@ -1,0 +1,12 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "ys",
+            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/cang_my.json"
+        },
+        {
+            "sourceName": "og",
+            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/cang_og.json"
+        }
+    ]
+}

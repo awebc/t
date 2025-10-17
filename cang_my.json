@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+            "url": "https://cdn.jsdmirror.com/gh/awebc/t@main/line_cdn.json",
+            "name": "cdn"
+        },
+        {
+            "url": "clan://localhost/Download/Weixin/local.json",
+            "name": "local"
+        },
+        {
+            "url": "http://192.168.2.196/tvbox/og/line_local.json",
+            "name": "192"
+        }
+    ]
+}
