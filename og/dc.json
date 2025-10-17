@@ -2,11 +2,11 @@
     "storeHouse": [
         {
             "sourceName": "ys",
-            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/og/dc_source.json"
+            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/og/dc_source_my.json"
         },
         {
             "sourceName": "og",
-            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/og/og.json"
+            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/og/dc_soruce_og.json"
         }
     ]
 }
