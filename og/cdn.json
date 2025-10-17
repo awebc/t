@@ -9,7 +9,7 @@
 "sites": [
 {"key":"豆瓣2","name":"📢祝：家国同兴旺，岁岁福绵长！祝您追剧愉快！","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢公告❤更新10.11❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/ca89297988221a7e6dd9d8106dc102ab.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://xn--6776-wn6lw489o.v.nxog.top/m/公告?b=祝：家国同兴旺，岁岁福绵长！祝您追剧愉快！"},
-{"key":"csp_BBB","name":"🅱️套餐┃哔哩Y","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.cn/gh/awebc/t@main/my_bili.json"},"style":{"type":"rect","ratio":1.597}},
+{"key":"csp_BBB","name":"🅱️套餐┃哔哩Y","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.cn/gh/awebc/t@main/og/my_bili.json"},"style":{"type":"rect","ratio":1.597}},
 
 {"key": "config", "name": "🐲歌配置｜中心","type": 3,"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e ","api": "csp_Config","searchable": 0},
 {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
