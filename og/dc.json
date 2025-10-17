@@ -1,0 +1,16 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "cdn",
+            "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/og/cdn.json"
+        },
+        {
+            "sourceName": "local",
+            "sourceUrl": "clan://localhost/Download/Weixin/local.json"
+        },
+        {
+            "sourceName": "192",
+            "sourceUrl": "http://192.168.2.196/tvbox/og/local.json"
+        }
+    ]
+}
