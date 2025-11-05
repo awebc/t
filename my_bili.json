@@ -1,16 +1,20 @@
 {
     "class": [
         {
+            "type_name": "郭德纲",
+            "type_id": "郭德纲于谦"
+        },
+        {
+            "type_name": "老黄",
+            "type_id": "老黄游钓中国"
+        },
+        {
             "type_name": "解说",
             "type_id": "解说"
         },
         {
             "type_name": "搞笑",
             "type_id": "搞笑"
-        },
-        {
-            "type_name": "老黄",
-            "type_id": "老黄游钓中国"
         },
         {
             "type_name": "uniappx",
@@ -57,11 +61,6 @@
             "type_id": "食谱"
         },
         {
-            "type_name": "相声小品",
-            "type_id": "相声小品"
-        },
-       
-        {
             "type_name": "📗人教版",
             "type_id": "人教版课程"
         },
@@ -74,14 +73,10 @@
             "type_id": "沪教版课程"
         },
         {
-            "type_name": "📚北师大版",
-            "type_id": "北师大版课程"
-        },
-        {
             "type_name": "儿童",
             "type_id": "儿童"
         },
-         {
+        {
             "type_name": "说案",
             "type_id": "说案"
         },
@@ -1707,7 +1702,7 @@
                 ]
             }
         ],
-        "北师大版课程": [
+        "郭德纲于谦": [
             {
                 "key": "order",
                 "name": "排序",
