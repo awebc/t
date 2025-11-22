@@ -1,6 +1,18 @@
 {
     "class": [
         {
+            "type_name": "郭德纲",
+            "type_id": "郭德纲于谦"
+        },
+        {
+            "type_name": "张鹤伦",
+            "type_id": "张鹤伦"
+        },
+        {
+            "type_name": "岳云鹏",
+            "type_id": "岳云鹏孙越"
+        },
+        {
             "type_name": "解说",
             "type_id": "解说"
         },
