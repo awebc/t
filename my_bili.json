@@ -13,6 +13,10 @@
             "type_id": "岳云鹏孙越"
         },
         {
+            "type_name": "老黄",
+            "type_id": "老黄游钓中国"
+        },
+        {
             "type_name": "解说",
             "type_id": "解说"
         },
@@ -24,10 +28,7 @@
             "type_name": "python",
             "type_id": "python"
         },
-        {
-            "type_name": "老黄",
-            "type_id": "老黄游钓中国"
-        },
+        
         {
             "type_name": "uniappx",
             "type_id": "uniappx"
