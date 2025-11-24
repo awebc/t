@@ -9,6 +9,10 @@
             "type_id": "张鹤伦"
         },
         {
+            "type_name": "老黄",
+            "type_id": "老黄游钓中国"
+        },
+        {
             "type_name": "岳云鹏",
             "type_id": "岳云鹏孙越"
         },
@@ -20,10 +24,7 @@
             "type_name": "搞笑",
             "type_id": "搞笑"
         },
-        {
-            "type_name": "老黄",
-            "type_id": "老黄游钓中国"
-        },
+        
         {
             "type_name": "uniappx",
             "type_id": "uniappx"
