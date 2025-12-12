@@ -5,6 +5,10 @@
             "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/cang_my.json"
         },
         {
+            "sourceName": "192",
+            "sourceUrl": "http://192.168.2.196/tvbox/cang_my.json"
+        },
+        {
             "sourceName": "og",
             "sourceUrl": "https://cdn.jsdmirror.com/gh/awebc/t@main/cang_og.json"
         }

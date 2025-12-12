@@ -1,7 +1,8 @@
 {
 "wallpaper":"https://xn--6776-wn6lw489o.v.nxog.top/m/t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-"spider":"https://xn--6776-wn6lw489o.v.nxog.top/m/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
+// "spider":"https://xn--6776-wn6lw489o.v.nxog.top/m/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
+"spider":"http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;d10e4f18cab989e0daadc3a1f027f83f",
 "warningText":"祝：家国同兴旺，岁岁福绵长！祝您追剧愉快！提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
 "lives":[
 {"name":"祝：家国同兴旺，岁岁福绵长！祝您追剧愉快！","type":0,"url":"https://xn--6776-wn6lw489o.v.nxog.top/m/tv/?ou=3f8","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10}

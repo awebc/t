@@ -1,0 +1,27 @@
+array (
+  'time' => '20251212-171121',
+  'data' => 
+  array (
+    'DOCUMENT_ROOT' => '/home/yunsong/www/demo/tvbox',
+    'REMOTE_ADDR' => '192.168.2.32',
+    'REMOTE_PORT' => '44280',
+    'SERVER_SOFTWARE' => 'PHP 8.1.2-1ubuntu2.22 Development Server',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_NAME' => '192.168.2.196',
+    'SERVER_PORT' => '5000',
+    'REQUEST_URI' => '/api.php',
+    'REQUEST_METHOD' => 'GET',
+    'SCRIPT_NAME' => '/api.php',
+    'SCRIPT_FILENAME' => '/home/yunsong/www/demo/tvbox/api.php',
+    'PHP_SELF' => '/api.php',
+    'HTTP_HOST' => '192.168.2.196:5000',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7',
+    'REQUEST_TIME_FLOAT' => 1765530681.669744,
+    'REQUEST_TIME' => 1765530681,
+  ),
+)

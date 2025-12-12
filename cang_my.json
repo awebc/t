@@ -9,7 +9,7 @@
             "name": "local"
         },
         {
-            "url": "http://192.168.2.196/tvbox/og/line_local.json",
+            "url": "http://192.168.2.196/tvbox/line_local.json",
             "name": "192"
         }
     ]
