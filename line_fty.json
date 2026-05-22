@@ -1,14 +1,10 @@
-//      >>> 当前时间是：2026-05-22 14:12:04 <<<
-//     关注微信公众号【太太太硬了】有惊喜哦！！！
-
-//     当前接口：http://www.xn--sss604efuw.cc/tv
 {
     "spider": "https://file.icve.com.cn/file_doc/258/315/40B4ECA61202F95BEE1D864015B10E84.jpg;md5;40b4eca61202f95bee1d864015b10e84",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "嘟嘟盘容量，到【太太太硬了】领取",
+            "name": "盘容量",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
