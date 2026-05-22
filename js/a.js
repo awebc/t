@@ -1,4 +1,4 @@
-var rule = {
+﻿var rule = {
     title: '剧迷影视',
     host: 'https://gimytv.ai',
     url: '/cat/fyfilter',

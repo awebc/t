@@ -1,0 +1,26 @@
+﻿var rule = {
+    title: 'fc',
+    host: 'http://192.168.2.196:5000',
+    url:'/tmp/web/fc/cate.html?c=fyclass&p=fypage',
+    // host: 'https://fccw46.com',
+    // url: '/categories/27f8a5c9ce83cbfa7b70fc5c9a73a082/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=fyclass&from=fypage&_=1778233897831',
+    // url:'/categories/27f8a5c9ce83cbfa7b70fc5c9a73a082/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from=fypage&_=1778233897831',
+	searchUrl: '/search/-------------.html?wd=*&submit=',
+	searchable:0,
+	quickSearch:0,
+    headers: { //网站的请求头,完整支持所有的,常带ua和cookies
+        'User-Agent': 'MOBILE_UA',
+    },
+    class_name: '新的&热门&欢迎&热议',
+    class_url: 'post_date&video_viewed&rating&most_commented',
+    //class_parse: '.navbar-left&&li;a&&Text;a&&href;/(\\d+).html',
+    play_parse: true,
+	
+    limit: 6,
+    lazy:'',
+    double:false,
+    推荐: '.item;strong&&Text;div.img img.thumb&&src;.duration&&Text;a&&href',
+    一级: '.item;strong&&Text;div.img img.thumb&&src;.duration&&Text;a&&href',
+    二级: '*',
+    搜索: '',
+}
