@@ -4,10 +4,7 @@
             "type_name": "搞笑",
             "type_id": "搞笑"
         },
-        {
-            "type_name": "解说",
-            "type_id": "解说"
-        },
+        
         {
             "type_name": "郭德纲",
             "type_id": "郭德纲"
@@ -19,6 +16,14 @@
         {
             "type_name": "老黄",
             "type_id": "老黄游钓中国"
+        },
+        {
+            "type_name": "解说",
+            "type_id": "解说"
+        },
+        {
+            "type_name": "鬼吹灯",
+            "type_id": "鬼吹灯"
         },
         {
             "type_name": "张雪峰",
