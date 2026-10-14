@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "Bili",
-            "name": "🅱哔哔合集┃弹幕",
+            "name": "🅱哔哔",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -15,23 +15,22 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                // "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
                 "json": "./my_bili.json"
             }
         },
         {
           "key": "py_ww",
-          "name": "Python ww",
+          "name": "wwPy",
           "type": 3,
           "searchable": 1,
           "quickSearch":1,
           "timeout":30,
           "api": "./py/ww.py"
         },
-        {"key":"ww","name":"wwJs","type":3,"api":"./js/drpy2.min.js","ext":"./demo/ww.js","style":{"type":"rect","ratio":1.597},"timeout":30,"searchable":1,"quickSearch":1,"changeable":0},
+        {"key":"ww_js","name":"wwJs","type":3,"api":"./js/drpy2.min.js","ext":"./demo/ww.js","style":{"type":"rect","ratio":1.597},"timeout":30,"searchable":0,"quickSearch":0,"changeable":0},
         {
             "key": "点我切源",
-            "name": "盘容量",
+            "name": "豆豆",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -82,39 +81,7 @@
                 "siteUrl": "https://www.libvio.run"
             }
         },
-        {
-            "key": "厂长",
-            "name": "📔厂长┃秒播",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "原创",
-            "name": "☀原创┃秒播",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "比特",
             "name": "🍄比特┃秒播",
@@ -149,30 +116,7 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         
-        {
-            "key": "荐片",
-            "name": "🐭荐片┃P2P",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        
-        {
-            "key": "米搜",
-            "name": "🦋米搜┃夸嘟",
-            "type": 3,
-            "api": "csp_MIPanSoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
+       
         {
             "key": "YpanSo",
             "name": "🐟盘她┃夸父",
