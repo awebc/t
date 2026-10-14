@@ -1,6 +1,6 @@
 ﻿var rule = {
     title: 'fc',
-    host: 'http://192.168.2.196:5000',
+    host: 'http://192.168.2.196:8000',
     url:'/tmp/web/fc/cate.html?c=fyclass&p=fypage',
     // host: 'https://fccw46.com',
     // url: '/categories/27f8a5c9ce83cbfa7b70fc5c9a73a082/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=fyclass&from=fypage&_=1778233897831',
