@@ -1,3 +1,5 @@
 *local*.php
 tmp
 !.gitignore
+local
+runtime/*
