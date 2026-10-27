@@ -59,6 +59,7 @@
             "type": 3,
             "searchable": 0,
             "changeable": 0,
+            "jar":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar",
             "api": "csp_Local"
         },
         {
