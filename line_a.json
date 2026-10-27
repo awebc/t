@@ -54,6 +54,34 @@
             }
         },
         {
+            "key": "本地文件",
+            "name": "🗂️｜本地｜文件",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "api": "csp_Local"
+        },
+        {
+            "key": "WebDAV",
+            "name": "🗂️┃Web┃DAV",
+            "type": 3,
+            "api": "csp_WebDAV",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 60
+        },
+        {
+            "key": "Samba",
+            "name": "🗂️┃SMB┃共享",
+            "type": 3,
+            "api": "csp_Samba",
+            "searchable": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 30
+        },
+        {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
@@ -157,7 +185,7 @@
         {
             "name": "develop202",
             "type": 0,
-            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2,
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -165,7 +193,7 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
         },
         {
