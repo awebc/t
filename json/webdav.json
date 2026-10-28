@@ -1,0 +1,20 @@
+[
+    {
+        "name": "七米藍",
+        "server": "https://al.chirmyram.com/dav",
+        "user": "alist",
+        "pass": "alist"
+    },
+    {
+        "name": "热心网友",
+        "server": "https://pan.lm379.cn/dav",
+        "user": "public_dav",
+        "pass": "public"
+    },
+    {
+        "name": "My",
+        "server": "http://192.168.2.151:8081/movie",
+        "user": "admin",
+        "pass": "admin"
+    }
+]
