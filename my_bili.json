@@ -1,6 +1,10 @@
 {
     "class": [
         {
+            "type_name": "登录",
+            "type_id": "peizhi"
+        },
+        {
             "type_name": "搞笑",
             "type_id": "搞笑"
         },
